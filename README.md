@@ -4,4 +4,4 @@ This open source project shown AI solution to Analyse Human Movement Patterns in
 
 ## Demo Video
 
-[Watch the demo on YouTube]([https://youtu.be/MIySQxoY9VA])
+[Watch the demo on YouTube](https://youtu.be/MIySQxoY9VA)
