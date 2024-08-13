@@ -25,3 +25,22 @@ This open source project shown AI solution to Analyse Human Movement Patterns in
       <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-youtube.png" width="2%" alt="" /></a>
   </div>
 </div>
+
+## <div align="center">Documentation</div>
+
+See below for a quickstart installation and usage example, and see the [YOLOv8 Docs](https://docs.ultralytics.com) for
+full documentation on training, validation, prediction and deployment.
+
+<details open>
+<summary>Install</summary>
+
+Pip install the ultralytics package including
+all [requirements.txt](https://github.com/ultralytics/ultralytics/blob/main/requirements.txt) in a
+[**3.10>=Python>=3.7**](https://www.python.org/) environment, including
+[**PyTorch>=1.7**](https://pytorch.org/get-started/locally/).
+
+```bash
+pip install ultralytics
+```
+
+</details>
