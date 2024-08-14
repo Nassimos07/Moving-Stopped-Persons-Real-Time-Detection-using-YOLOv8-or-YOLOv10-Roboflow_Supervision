@@ -41,7 +41,8 @@ The purpose of this solution is to deliver a real-time or post-event tool capabl
 This project holds significant potential as a security solution.
 
 **Example**: it could be used to detect individuals who have remained stationary for an extended period in a specific location, which may indicate suspicious behavior or a potential threat, such as theft or terrorism.
-You can find more details about its workings in the Medium article:
+
+You can find more details about its workings in the **[Medium article](https://medium.com/@nassim.hammami98/moving-stopped-persons-detection-using-yolov8-yolov10-supervison-126bffaec954):**
 [![Medium](https://cdn.freelogovectors.net/wp-content/uploads/2020/10/medium-logo.png)](https://medium.com/@nassim.hammami98/moving-stopped-persons-detection-using-yolov8-yolov10-supervison-126bffaec954)
 
 ## <div align="center">Use Cases</div>
