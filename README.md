@@ -16,17 +16,7 @@
   
 This open source project shown AI solution to Analyse Human Movement Patterns in Diverse Environments using [ Ultralytics YOLOv8 / YOLOv10 ](https://ultralytics.com/license) & [Roboflow Supervision](https://supervision.roboflow.com/latest/).
 
-<div align="center">
-    <a href="https://github.com/Nassimos07" style="text-decoration:none;">
-      <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="2%" alt="" /></a>
-    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%" alt="" />
-    <a href="https://www.linkedin.com/in/nassim-hammami-771015217/" style="text-decoration:none;">
-    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="2%" alt="" /></a>
-      <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="2%" alt="" />
-    <a href="https://www.youtube.com/@user-CV1IP1UP1" style="text-decoration:none;">
-      <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-youtube.png" width="2%" alt="" /></a>
-  </div>
-</div>
+
 
 ## <div align="center">Overview</div>
 
@@ -55,6 +45,22 @@ The project comprises four main parts divided into three scenarios:
 | Part 4                                  | Scenario 3                      | Detection of Stopped Individuals using Relative Speed Threshold |[Youtube Video](https://www.youtube.com/watch?v=eEOHfrg3pY0)|
 
 
-![Simultaneous Detection of Moving and Stopped Individuals ](Images/Stopped_Olny.gif)
 
+| <img src="Images/Both_classes_Absolute.gif" alt="Both Classes Absolute" width="500"/> <br> **Both Classes Absolute** | <img src="Images/Both_classes_Relative.gif" alt="Both Classes Relative" width="500"/> <br> **Both Classes Relative** | <img src="Images/Moving_only.gif" alt="Moving Only" width="500"/> <br> **Moving Only** | <img src="Images/Stopped_Olny.gif" alt="Stopped Only" width="500"/> <br> **Stopped Only** |
+|---|---|---|---|
+
+
+## <div align="center">Contact me</div>
+
+<div align="center">
+    <a href="https://github.com/Nassimos07" style="text-decoration:none;">
+      <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="5%" alt="" /></a>
+    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="5%" alt="" />
+    <a href="https://www.linkedin.com/in/nassim-hammami-771015217/" style="text-decoration:none;">
+    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="5%" alt="" /></a>
+      <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="5%" alt="" />
+    <a href="https://www.youtube.com/@user-CV1IP1UP1" style="text-decoration:none;">
+      <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-youtube.png" width="5%" alt="" /></a>
+  </div>
+</div>
 
