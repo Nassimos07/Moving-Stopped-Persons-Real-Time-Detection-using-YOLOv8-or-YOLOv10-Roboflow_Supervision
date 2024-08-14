@@ -15,6 +15,23 @@
   
   
 This open source project shown AI solution to Analyse Human Movement Patterns in Diverse Environments using [ Ultralytics YOLOv8 / YOLOv10 ](https://ultralytics.com/license) & [Roboflow Supervision](https://supervision.roboflow.com/latest/).
+## <div align="center">Contact me</div>
+
+<div align="center">
+      <a href="https://www.upwork.com/freelancers/~013cf1e92a2b62e552" style="text-decoration:none;">
+      <img src="Images/Upwork logo.png" width="5%" alt="" /></a>
+    <a href="https://github.com/Nassimos07" style="text-decoration:none;">
+          <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="5%" alt="" />
+      <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="5%" alt="" /></a>
+    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="5%" alt="" />
+    <a href="https://www.linkedin.com/in/nassim-hammami-771015217/" style="text-decoration:none;">
+    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="5%" alt="" /></a>
+      <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="5%" alt="" />
+    <a href="https://www.youtube.com/@user-CV1IP1UP1" style="text-decoration:none;">
+      <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-youtube.png" width="5%" alt="" /></a>
+  </div>
+</div>
+
 
 
 
@@ -24,6 +41,8 @@ The purpose of this solution is to deliver a real-time or post-event tool capabl
 This project holds significant potential as a security solution.
 
 **Example**: it could be used to detect individuals who have remained stationary for an extended period in a specific location, which may indicate suspicious behavior or a potential threat, such as theft or terrorism.
+You can find more details about its workings in the Medium article:
+[![Medium](https://cdn.freelogovectors.net/wp-content/uploads/2020/10/medium-logo.png)](https://medium.com/@nassim.hammami98/moving-stopped-persons-detection-using-yolov8-yolov10-supervison-126bffaec954)
 
 ## <div align="center">Use Cases</div>
 
@@ -49,18 +68,4 @@ The project comprises four main parts divided into three scenarios:
 | <img src="Images/Both_classes_Absolute.gif" alt="Both Classes Absolute" width="500"/> <br> **Both Classes Absolute** | <img src="Images/Both_classes_Relative.gif" alt="Both Classes Relative" width="500"/> <br> **Both Classes Relative** | <img src="Images/Moving_only.gif" alt="Moving Only" width="500"/> <br> **Moving Only** | <img src="Images/Stopped_Olny.gif" alt="Stopped Only" width="500"/> <br> **Stopped Only** |
 |---|---|---|---|
 
-
-## <div align="center">Contact me</div>
-
-<div align="center">
-    <a href="https://github.com/Nassimos07" style="text-decoration:none;">
-      <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-github.png" width="5%" alt="" /></a>
-    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="5%" alt="" />
-    <a href="https://www.linkedin.com/in/nassim-hammami-771015217/" style="text-decoration:none;">
-    <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-linkedin.png" width="5%" alt="" /></a>
-      <img src="https://github.com/ultralytics/assets/raw/main/social/logo-transparent.png" width="5%" alt="" />
-    <a href="https://www.youtube.com/@user-CV1IP1UP1" style="text-decoration:none;">
-      <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-youtube.png" width="5%" alt="" /></a>
-  </div>
-</div>
 
