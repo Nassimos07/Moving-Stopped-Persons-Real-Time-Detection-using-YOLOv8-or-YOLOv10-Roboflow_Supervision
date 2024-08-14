@@ -7,10 +7,12 @@
     <a align="center" href="https://ultralytics.com/yolov8" target="_blank">
       <img width="100%" src="https://media.roboflow.com/open-source/supervision/rf-supervision-banner.png?updatedAt=1678995927529"></a>
   </p>
-
-
-
 <div>
+  
+<div>
+   Open the notebook in Google Clab   <a href="https://colab.research.google.com/drive/1k4ZIj_1xnoMkbU0caC9lbsfDTLuMJogg?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+  </div>
+  
   
 This open source project shown AI solution to Analyse Human Movement Patterns in Diverse Environments using [ Ultralytics YOLOv8 / YOLOv10 ](https://ultralytics.com/license) & [Roboflow Supervision](https://supervision.roboflow.com/latest/).
 
@@ -26,21 +28,20 @@ This open source project shown AI solution to Analyse Human Movement Patterns in
   </div>
 </div>
 
-## <div align="center">Documentation</div>
+## <div align="center">Overview</div>
 
-See below for a quickstart installation and usage example, and see the [YOLOv8 Docs](https://docs.ultralytics.com) for
-full documentation on training, validation, prediction and deployment.
+The purpose of this solution is to deliver a real-time or post-event tool capable of accurately detecting, visualizing, and distinguishing between moving and stationary individuals.
+This project holds significant potential as a security solution.
 
-<details open>
-<summary>Install</summary>
+**Example**: it could be used to detect individuals who have remained stationary for an extended period in a specific location, which may indicate suspicious behavior or a potential threat, such as theft or terrorism.
+## <div align="center">Use Cases</div>
 
-Pip install the ultralytics package including
-all [requirements.txt](https://github.com/ultralytics/ultralytics/blob/main/requirements.txt) in a
-[**3.10>=Python>=3.7**](https://www.python.org/) environment, including
-[**PyTorch>=1.7**](https://pytorch.org/get-started/locally/).
+The use cases in this project are:
 
-```bash
-pip install ultralytics
-```
+| Use Case           | Description                                                                                 |
+|--------------------|---------------------------------------------------------------------------------------------|
+| 🟢 Moving          | A person who has relocated from their previous position to a new one with considerable displacement. |
+| 🔴 Stopped         | A person who has ceased moving or has been stationary from the outset.                        |
+| 🟠 Under-Processing | A newly appeared person in the frame with no prior detection results.                        |
 
-</details>
+
