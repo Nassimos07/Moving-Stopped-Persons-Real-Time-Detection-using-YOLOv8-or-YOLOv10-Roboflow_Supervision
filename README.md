@@ -34,6 +34,7 @@ The purpose of this solution is to deliver a real-time or post-event tool capabl
 This project holds significant potential as a security solution.
 
 **Example**: it could be used to detect individuals who have remained stationary for an extended period in a specific location, which may indicate suspicious behavior or a potential threat, such as theft or terrorism.
+
 ## <div align="center">Use Cases</div>
 
 The use cases in this project are:
@@ -43,5 +44,17 @@ The use cases in this project are:
 | 🟢 Moving          | A person who has relocated from their previous position to a new one with considerable displacement. |
 | 🔴 Stopped         | A person who has ceased moving or has been stationary from the outset.                        |
 | 🟠 Under-Processing | A newly appeared person in the frame with no prior detection results.                        |
+## <div align="center">Scenarios</div>
+The project comprises four main parts divided into three scenarios:
+
+| Part                                     | Scenario                         | Description                                                  | Video 
+|------------------------------------------|----------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
+| Part 1                                  | Scenario 1                      | Simultaneous Detection of Moving and Stopped Individuals using Absolute Speed Threshold|[Youtube Video](https://www.youtube.com/watch?v=8wcPnXHiAVY) |
+| Part 2                                  | Scenario 1                      | Simultaneous Detection of Moving and Stopped Individuals using Relative Speed Threshold|[Youtube Video](https://www.youtube.com/watch?v=MIySQxoY9VA) |
+| Part 3                                  | Scenario 2                      | Detection of Moving Individuals using Relative Speed Threshold|[Youtube Video](https://www.youtube.com/watch?v=2iE7njAYJfc) |
+| Part 4                                  | Scenario 3                      | Detection of Stopped Individuals using Relative Speed Threshold |[Youtube Video](https://www.youtube.com/watch?v=eEOHfrg3pY0)|
+
+
+![Simultaneous Detection of Moving and Stopped Individuals ](Images/Stopped_Olny.gif)
 
 
