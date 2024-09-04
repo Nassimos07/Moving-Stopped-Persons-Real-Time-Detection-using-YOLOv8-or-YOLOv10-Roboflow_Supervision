@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <a align="center" href="https://ultralytics.com/yolov8" target="_blank">
-      <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png"></a>
+      <img width="100%" height="50%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png"></a>
   </p>
   <p>
     <a align="center" href="https://ultralytics.com/yolov8" target="_blank">
@@ -31,42 +31,5 @@ This open source project shown AI solution to Analyse Human Movement Patterns in
       <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-youtube.png" width="5%" alt="" /></a>
   </div>
 </div>
-
-
-
-
-## <div align="center">Overview</div>
-
-The purpose of this solution is to deliver a real-time or post-event tool capable of accurately detecting, visualizing, and distinguishing between moving and stationary individuals.
-This project holds significant potential as a security solution.
-
-**Example**: it could be used to detect individuals who have remained stationary for an extended period in a specific location, which may indicate suspicious behavior or a potential threat, such as theft or terrorism.
-
-You can find more details about its workings in the **[Medium article](https://medium.com/@nassim.hammami98/moving-stopped-persons-detection-using-yolov8-yolov10-supervison-126bffaec954):**
-[![Medium](https://cdn.freelogovectors.net/wp-content/uploads/2020/10/medium-logo.png)](https://medium.com/@nassim.hammami98/moving-stopped-persons-detection-using-yolov8-yolov10-supervison-126bffaec954)
-
-## <div align="center">Use Cases</div>
-
-The use cases in this project are:
-
-| Use Case           | Description                                                                                 |
-|--------------------|---------------------------------------------------------------------------------------------|
-| 🟢 Moving          | A person who has relocated from their previous position to a new one with considerable displacement. |
-| 🔴 Stopped         | A person who has ceased moving or has been stationary from the outset.                        |
-| 🟠 Under-Processing | A newly appeared person in the frame with no prior detection results.                        |
-## <div align="center">Scenarios</div>
-The project comprises four main parts divided into three scenarios:
-
-| Part                                     | Scenario                         | Description                                                  | Video 
-|------------------------------------------|----------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-| Part 1                                  | Scenario 1                      | Simultaneous Detection of Moving and Stopped Individuals using Absolute Speed Threshold|[Youtube Video](https://www.youtube.com/watch?v=8wcPnXHiAVY) |
-| Part 2                                  | Scenario 1                      | Simultaneous Detection of Moving and Stopped Individuals using Relative Speed Threshold|[Youtube Video](https://www.youtube.com/watch?v=MIySQxoY9VA) |
-| Part 3                                  | Scenario 2                      | Detection of Moving Individuals using Relative Speed Threshold|[Youtube Video](https://www.youtube.com/watch?v=2iE7njAYJfc) |
-| Part 4                                  | Scenario 3                      | Detection of Stopped Individuals using Relative Speed Threshold |[Youtube Video](https://www.youtube.com/watch?v=eEOHfrg3pY0)|
-
-
-
-| <img src="Images/Both_classes_Absolute.gif" alt="Both Classes Absolute" width="500"/> <br> **Both Classes Absolute** | <img src="Images/Both_classes_Relative.gif" alt="Both Classes Relative" width="500"/> <br> **Both Classes Relative** | <img src="Images/Moving_only.gif" alt="Moving Only" width="500"/> <br> **Moving Only** | <img src="Images/Stopped_Olny.gif" alt="Stopped Only" width="500"/> <br> **Stopped Only** |
-|---|---|---|---|
 
 
