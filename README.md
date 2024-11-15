@@ -1,11 +1,11 @@
 <div align="center">
   <p>
     <a align="center" href="https://ultralytics.com/yolov8" target="_blank">
-      <img width="100%" height="50%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png"></a>
+      <img width="50%" height="50%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png"></a>
   </p>
   <p>
     <a align="center" href="https://ultralytics.com/yolov8" target="_blank">
-      <img width="100%" src="https://media.roboflow.com/open-source/supervision/rf-supervision-banner.png?updatedAt=1678995927529"></a>
+      <img width="50%" src="https://media.roboflow.com/open-source/supervision/rf-supervision-banner.png?updatedAt=1678995927529"></a>
   </p>
 <div>
   
@@ -19,27 +19,27 @@ This open source project shown AI solution to Analyse Human Movement Patterns in
 
 <table align="center">
   <tr>
-    <td align="center"><b>Demo 1</b></td>
-    <td align="center"><b>Demo 2</b></td>
+    <td align="center"><b>Moving and Stopped Individuals Detection( Absolute Speed )</b></td>
+    <td align="center"><b>Moving and Stopped Individuals Detection( Relative Speed )</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Both_classes_Absolute.gif" width="100%" alt="Demo 1">
+      <img src="Images/Both_classes_Absolute.gif" width="100%" alt="Demo 1">
     </td>
     <td align="center">
-      <img src="path-to-your-gif2.gif" width="100%" alt="Demo 2">
+      <img src="Images/Both_classes_Relative.gif" width="100%" alt="Demo 2">
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Demo 3</b></td>
-    <td align="center"><b>Demo 4</b></td>
+    <td align="center"><b>Moving  Only Individuals Detection( Relative Speed )</b></td>
+    <td align="center"><b>Stopped Only Individuals Detection( Relative Speed )</b></td>
   </tr>
   <tr>
     <td align="center">
-      <img src="path-to-your-gif3.gif" width="100%" alt="Demo 3">
+      <img src="Images/Moving_only.gif" width="100%" alt="Demo 3">
     </td>
     <td align="center">
-      <img src="path-to-your-gif4.gif" width="100%" alt="Demo 4">
+      <img src="Images/Stopped_Olny.gif" width="100%" alt="Demo 4">
     </td>
   </tr>
 </table>
