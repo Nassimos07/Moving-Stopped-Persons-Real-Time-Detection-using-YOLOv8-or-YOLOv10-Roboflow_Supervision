@@ -13,8 +13,37 @@
    Open the notebook in Google Clab   <a href="https://colab.research.google.com/drive/1k4ZIj_1xnoMkbU0caC9lbsfDTLuMJogg?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
   </div>
   
-  
-This open source project shown AI solution to Analyse Human Movement Patterns in Diverse Environments using [ Ultralytics YOLOv8 / YOLOv10 ](https://ultralytics.com/license) & [Roboflow Supervision](https://supervision.roboflow.com/latest/).
+This open source project shown AI solution to Analyse Human Movement Patterns in Diverse Environments using [Ultralytics YOLOv8 / YOLOv10](https://ultralytics.com/license) & [Roboflow Supervision](https://supervision.roboflow.com/latest/).
+
+## <div align="center">Demo GIFs</div>
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Demo 1</b></td>
+    <td align="center"><b>Demo 2</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Both_classes_Absolute.gif" width="100%" alt="Demo 1">
+    </td>
+    <td align="center">
+      <img src="path-to-your-gif2.gif" width="100%" alt="Demo 2">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Demo 3</b></td>
+    <td align="center"><b>Demo 4</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="path-to-your-gif3.gif" width="100%" alt="Demo 3">
+    </td>
+    <td align="center">
+      <img src="path-to-your-gif4.gif" width="100%" alt="Demo 4">
+    </td>
+  </tr>
+</table>
+
 ## <div align="center">Contact me</div>
 
 <div align="center">
@@ -31,5 +60,3 @@ This open source project shown AI solution to Analyse Human Movement Patterns in
       <img src="https://github.com/ultralytics/assets/raw/main/social/logo-social-youtube.png" width="5%" alt="" /></a>
   </div>
 </div>
-
-
