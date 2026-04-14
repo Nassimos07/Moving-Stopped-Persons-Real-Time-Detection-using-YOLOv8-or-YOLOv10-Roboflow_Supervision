@@ -1,0 +1,7 @@
+ultralytics>=8.2.0
+supervision>=0.21.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+PyYAML>=6.0.0
+fire>=0.6.0
+
