@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Runtime outputs
+outputs/
+runs/
+artifacts/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.pt
+*.onnx
+
+# Packaging and test cache
+*.egg-info/
+.pytest_cache/
+
+# Local environments
+venv/
+
+# OS
+.DS_Store
+Thumbs.db

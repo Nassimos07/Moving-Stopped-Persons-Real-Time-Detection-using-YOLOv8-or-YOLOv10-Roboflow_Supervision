@@ -1,0 +1,18 @@
+model_path: yolov8x.pt
+device: auto
+classes:
+  - 0
+source_video: assets/videos/test1.mp4
+output_dir: outputs
+frame_step: 10
+absolute_speed_threshold: 10.0
+relative_speed_factor: 0.00045
+trace_length: 70
+show: false
+save_video: true
+fps: null
+codec: mp4v
+render:
+  resize_width: null
+  resize_height: null
+
