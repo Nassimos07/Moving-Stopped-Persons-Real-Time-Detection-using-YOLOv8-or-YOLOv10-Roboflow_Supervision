@@ -1,0 +1,100 @@
+<svg width="100%" viewBox="0 0 1920 550" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Moving / Stopped Persons Detection GitHub Banner</title>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">GitHub banner for Moving / Stopped Persons Detection – YOLO video inference pipeline for tracking and motion-state classification</desc>
+
+  <defs>
+    <radialGradient id="bg-warm" cx="18%" cy="108%" r="32%" gradientUnits="userSpaceOnUse" gradientTransform="scale(1.8,1)">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.88"/>
+      <stop offset="64%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bg-cool" cx="82%" cy="108%" r="32%" gradientUnits="userSpaceOnUse" gradientTransform="scale(1.8,1)">
+      <stop offset="0%" stop-color="#EC4899" stop-opacity="0.95"/>
+      <stop offset="64%" stop-color="#EC4899" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bg-amber" cx="68%" cy="84%" r="26%" gradientUnits="userSpaceOnUse" gradientTransform="scale(1.6,1)">
+      <stop offset="0%" stop-color="#F0ABFC" stop-opacity="0.45"/>
+      <stop offset="64%" stop-color="#F0ABFC" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bg-pink" cx="43%" cy="84%" r="24%" gradientUnits="userSpaceOnUse" gradientTransform="scale(1.6,1)">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.40"/>
+      <stop offset="66%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="wave-left" cx="0%" cy="100%" r="70%" gradientUnits="userSpaceOnUse" gradientTransform="skewY(-8)">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.78"/>
+      <stop offset="70%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="wave-right" cx="100%" cy="100%" r="70%" gradientUnits="userSpaceOnUse" gradientTransform="skewY(-8)">
+      <stop offset="0%" stop-color="#EC4899" stop-opacity="0.86"/>
+      <stop offset="70%" stop-color="#EC4899" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette" cx="50%" cy="50%" r="65%" gradientUnits="userSpaceOnUse">
+      <stop offset="44%" stop-color="transparent"/>
+      <stop offset="74%" stop-color="#000000" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.34"/>
+    </radialGradient>
+    <filter id="blur-bg" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+    <filter id="blur-wave" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+    <clipPath id="banner-clip">
+      <rect width="1920" height="540" rx="26"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#banner-clip)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+    <rect width="1920" height="540" fill="#121827" style="fill:rgb(18, 24, 39);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <rect width="1920" height="540" fill="url(#bg-warm)" filter="url(#blur-bg)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <rect width="1920" height="540" fill="url(#bg-cool)" filter="url(#blur-bg)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <rect width="1920" height="540" fill="url(#bg-amber)" filter="url(#blur-bg)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <rect width="1920" height="540" fill="url(#bg-pink)" filter="url(#blur-bg)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <rect width="1920" height="540" fill="url(#wave-left)" filter="url(#blur-wave)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <rect width="1920" height="540" fill="url(#wave-right)" filter="url(#blur-wave)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <rect width="1920" height="540" fill="url(#vignette)" style="stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+    <!-- Repo name -->
+    <text x="960" y="220" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="-1.4" fill="#F5F7FF" style="fill:rgb(245, 247, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Inter, Arial, sans-serif;font-size:54px;font-weight:700;text-anchor:middle;dominant-baseline:auto">Moving / Stopped Persons Detection</text>
+
+    <!-- Description -->
+    <text x="960" y="278" text-anchor="middle" font-family="'Josefin Sans',Inter,Arial,sans-serif" font-size="24" font-weight="200" letter-spacing="0.1" fill="rgba(241,245,255,0.90)" style="fill:rgba(241, 245, 255, 0.9);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Josefin Sans&quot;, Inter, Arial, sans-serif;font-size:24px;font-weight:200;text-anchor:middle;dominant-baseline:auto">YOLO video inference pipeline for tracking and motion-state classification</text>
+
+    <!-- Module boxes -->
+    <g transform="translate(1532, 100)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      <rect x="0" y="0" width="320" height="42" rx="14" fill="rgba(40,52,78,0.92)" stroke="rgba(255,255,255,0.12)" stroke-width="1" style="fill:rgba(40, 52, 78, 0.92);stroke:rgba(255, 255, 255, 0.12);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <text x="160" y="27" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="600" fill="#F8F9FF" letter-spacing="-0.2" style="fill:rgb(248, 249, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Inter, Arial, sans-serif;font-size:17px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Detection</text>
+
+      <rect x="0" y="52" width="320" height="42" rx="14" fill="rgba(40,52,78,0.92)" stroke="rgba(255,255,255,0.12)" stroke-width="1" style="fill:rgba(40, 52, 78, 0.92);stroke:rgba(255, 255, 255, 0.12);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <text x="160" y="79" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="600" fill="#F8F9FF" letter-spacing="-0.2" style="fill:rgb(248, 249, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Inter, Arial, sans-serif;font-size:17px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Tracking</text>
+
+      <rect x="0" y="104" width="320" height="42" rx="14" fill="rgba(40,52,78,0.92)" stroke="rgba(255,255,255,0.12)" stroke-width="1" style="fill:rgba(40, 52, 78, 0.92);stroke:rgba(255, 255, 255, 0.12);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <text x="160" y="131" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="600" fill="#F8F9FF" letter-spacing="-0.2" style="fill:rgb(248, 249, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Inter, Arial, sans-serif;font-size:17px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Motion Scoring</text>
+
+      <rect x="0" y="156" width="320" height="42" rx="14" fill="rgba(40,52,78,0.92)" stroke="rgba(255,255,255,0.12)" stroke-width="1" style="fill:rgba(40, 52, 78, 0.92);stroke:rgba(255, 255, 255, 0.12);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+      <text x="160" y="183" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="600" fill="#F8F9FF" letter-spacing="-0.2" style="fill:rgb(248, 249, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Inter, Arial, sans-serif;font-size:17px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Video Annotation</text>
+    </g>
+
+    <!-- Brand -->
+    <g transform="translate(48, 165)" style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      <text x="0" y="0" font-family="Inter,Arial,sans-serif" font-size="38" font-weight="700" letter-spacing="-1.1" fill="#ffffff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Inter, Arial, sans-serif;font-size:38px;font-weight:700;text-anchor:start;dominant-baseline:auto">NEXUS</text>
+      <text x="0" y="28" font-family="Inter,Arial,sans-serif" font-size="20" font-weight="400" letter-spacing="-0.5" fill="rgba(255,255,255,0.9)" style="fill:rgba(255, 255, 255, 0.9);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Inter, Arial, sans-serif;font-size:20px;font-weight:400;text-anchor:start;dominant-baseline:auto">VISION</text>
+    </g>
+
+    <!-- Contact pills -->
+    <!-- GitHub pill -->
+    <rect x="34" y="462" width="248" height="46" rx="23" fill="rgba(58,66,92,0.95)" stroke="rgba(255,255,255,0.14)" stroke-width="1" style="fill:rgba(58, 66, 92, 0.95);stroke:rgba(255, 255, 255, 0.14);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- GitHub icon: 18×18, vertically centred in 46px pill → y = 462 + (46-18)/2 = 476 -->
+    <g transform="translate(45, 476)" fill="rgba(250,252,255,0.97)" style="fill:rgba(250, 252, 255, 0.97);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      <path d="M9 0C4.03 0 0 4.03 0 9c0 3.98 2.58 7.35 6.16 8.54.45.08.61-.2.61-.44 0-.21-.01-.79-.01-1.54-2.5.54-3.03-1.2-3.03-1.2-.41-1.04-1-1.31-1-1.31-.82-.56.06-.54.06-.54.9.06 1.38.93 1.38.93.8 1.37 2.1.98 2.62.75.08-.58.31-.98.57-1.2-1.99-.23-4.1-1-4.1-4.45 0-.98.35-1.78.93-2.41-.09-.23-.4-1.14.09-2.38 0 0 .76-.24 2.48.92a8.6 8.6 0 0 1 4.5 0c1.72-1.16 2.48-.92 2.48-.92.49 1.24.18 2.15.09 2.38.58.63.93 1.43.93 2.41 0 3.46-2.11 4.22-4.12 4.44.32.28.61.82.61 1.67 0 1.2-.01 2.17-.01 2.47 0 .24.16.52.62.43A9.01 9.01 0 0 0 18 9C18 4.03 13.97 0 9 0Z" style="fill:rgba(250, 252, 255, 0.97);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    </g>
+    <text x="70" y="490" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="550" fill="rgba(250,252,255,0.97)" letter-spacing="-0.15" style="fill:rgba(250, 252, 255, 0.97);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Inter, Arial, sans-serif;font-size:15px;font-weight:550;text-anchor:start;dominant-baseline:auto">github.com/Nassimos07</text>
+
+    <!-- GitHub pill (org) -->
+    <rect x="294" y="462" width="250" height="46" rx="23" fill="rgba(58,66,92,0.95)" stroke="rgba(255,255,255,0.14)" stroke-width="1" style="fill:rgba(58, 66, 92, 0.95);stroke:rgba(255, 255, 255, 0.14);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    <!-- GitHub icon: 18×18, vertically centred → y = 462 + (46-18)/2 = 476 -->
+    <g transform="translate(310, 476)" fill="rgba(250,252,255,0.97)" style="fill:rgba(250, 252, 255, 0.97);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
+      <path d="M9 0C4.03 0 0 4.03 0 9c0 3.98 2.58 7.35 6.16 8.54.45.08.61-.2.61-.44 0-.21-.01-.79-.01-1.54-2.5.54-3.03-1.2-3.03-1.2-.41-1.04-1-1.31-1-1.31-.82-.56.06-.54.06-.54.9.06 1.38.93 1.38.93.8 1.37 2.1.98 2.62.75.08-.58.31-.98.57-1.2-1.99-.23-4.1-1-4.1-4.45 0-.98.35-1.78.93-2.41-.09-.23-.4-1.14.09-2.38 0 0 .76-.24 2.48.92a8.6 8.6 0 0 1 4.5 0c1.72-1.16 2.48-.92 2.48-.92.49 1.24.18 2.15.09 2.38.58.63.93 1.43.93 2.41 0 3.46-2.11 4.22-4.12 4.44.32.28.61.82.61 1.67 0 1.2-.01 2.17-.01 2.47 0 .24.16.52.62.43A9.01 9.01 0 0 0 18 9C18 4.03 13.97 0 9 0Z" style="fill:rgba(250, 252, 255, 0.97);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+    </g>
+    <text x="338" y="490" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="550" fill="rgba(250,252,255,0.97)" letter-spacing="-0.15" style="fill:rgba(250, 252, 255, 0.97);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Inter, Arial, sans-serif;font-size:15px;font-weight:550;text-anchor:start;dominant-baseline:auto">github.com/nexusvisionml</text>
+  </g>
+</svg>
